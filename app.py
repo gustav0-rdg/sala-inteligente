@@ -32,4 +32,4 @@ def retorno_json():
     return jsonify(pedidos)
 
 if __name__:
-    app.run(debug=True)
+    app.run
